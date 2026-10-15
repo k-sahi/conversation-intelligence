@@ -1,0 +1,9 @@
+data/
+outputs/
+.env
+.venv/
+**/__pycache__
+tests/
+docs/
+*.pdf
+.git

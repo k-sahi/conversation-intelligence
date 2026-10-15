@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nite:root nite:id="FX001a.words" xmlns:nite="http://nite.sourceforge.net/">
+  <w nite:id="FX001a.A.w0" starttime="0.0" endtime="0.28">okay</w>
+  <w nite:id="FX001a.A.w1" starttime="0.33" endtime="0.61">so</w>
+  <w nite:id="FX001a.A.w2" starttime="0.66" endtime="0.94">let's</w>
+  <w nite:id="FX001a.A.w3" starttime="0.99" endtime="1.27">decide</w>
+  <w nite:id="FX001a.A.w4" starttime="1.32" endtime="1.6">on</w>
+  <w nite:id="FX001a.A.w5" starttime="1.65" endtime="1.93">the</w>
+  <w nite:id="FX001a.A.w6" starttime="1.98" endtime="2.26">remote</w>
+  <w nite:id="FX001a.A.w7" starttime="2.31" endtime="2.59">control</w>
+  <w nite:id="FX001a.A.w8" starttime="2.64" endtime="2.92">case</w>
+  <w nite:id="FX001a.A.w9" starttime="2.97" endtime="3.25">material</w>
+  <w nite:id="FX001a.A.w27" starttime="9.0" endtime="9.28">alright</w>
+  <w nite:id="FX001a.A.w28" starttime="9.33" endtime="9.61">we</w>
+  <w nite:id="FX001a.A.w29" starttime="9.66" endtime="9.94">go</w>
+  <w nite:id="FX001a.A.w30" starttime="9.99" endtime="10.27">with</w>
+  <w nite:id="FX001a.A.w31" starttime="10.32" endtime="10.6">rubber</w>
+  <w nite:id="FX001a.A.w32" starttime="10.65" endtime="10.93">and</w>
+  <w nite:id="FX001a.A.w33" starttime="10.98" endtime="11.26">the</w>
+  <w nite:id="FX001a.A.w34" starttime="11.31" endtime="11.59">kinetic</w>
+  <w nite:id="FX001a.A.w35" starttime="11.64" endtime="11.92">battery</w>
+  <w nite:id="FX001a.A.w49" starttime="17.4" endtime="17.68">we</w>
+  <w nite:id="FX001a.A.w50" starttime="17.73" endtime="18.01">will</w>
+  <w nite:id="FX001a.A.w51" starttime="18.06" endtime="18.34">discuss</w>
+  <w nite:id="FX001a.A.w52" starttime="18.39" endtime="18.67">the</w>
+  <w nite:id="FX001a.A.w53" starttime="18.72" endtime="19.0">screen</w>
+  <w nite:id="FX001a.A.w54" starttime="19.05" endtime="19.33">at</w>
+  <w nite:id="FX001a.A.w55" starttime="19.38" endtime="19.66">the</w>
+  <w nite:id="FX001a.A.w56" starttime="19.71" endtime="19.99">next</w>
+  <w nite:id="FX001a.A.w57" starttime="20.04" endtime="20.32">meeting</w>
+  <w nite:id="FX001a.A.wp" starttime="30.0" endtime="30.0" punc="true">.</w>
+  <vocalsound nite:id="FX001a.A.v0" starttime="31.0" endtime="31.5" type="laugh"/>
+</nite:root>

@@ -1,0 +1,26 @@
+# Batch pipeline + FastAPI. CPU image; for GPU, base on pytorch/pytorch:*-cuda*-runtime instead.
+FROM python:3.11-slim AS base
+
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1 \
+    CI_DATA_DIR=/data CI_OUTPUT_DIR=/data/outputs HF_HOME=/models/hf
+
+RUN apt-get update && apt-get install -y --no-install-recommends ffmpeg libsndfile1 \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+COPY requirements.txt .
+# CPU wheels for torch keep the image ~2 GB smaller than the default CUDA build.
+RUN pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio \
+    && pip install -r requirements.txt
+
+COPY pyproject.toml README.md ./
+COPY src ./src
+COPY scripts ./scripts
+RUN pip install --no-deps -e .
+
+RUN useradd -m app && mkdir -p /data /models && chown -R app /data /models
+USER app
+
+EXPOSE 8000
+HEALTHCHECK --interval=30s --timeout=5s CMD python -c "import urllib.request;urllib.request.urlopen('http://localhost:8000/healthz')"
+CMD ["uvicorn", "convintel.api.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]

@@ -1,0 +1,23 @@
+# Real-time LiveKit agent worker. Deployed to LiveKit Cloud with `lk agent create`,
+# or run anywhere with `docker run --env-file .env convintel-agent`.
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1 CI_OUTPUT_DIR=/tmp/outputs
+
+RUN apt-get update && apt-get install -y --no-install-recommends gcc g++ \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+COPY requirements-realtime.txt .
+RUN pip install -r requirements-realtime.txt
+
+COPY pyproject.toml README.md ./
+COPY src ./src
+RUN pip install --no-deps -e .
+
+# Pre-download VAD / turn-detector weights at build time so cold starts are fast.
+RUN python -m convintel.realtime.agent download-files || true
+
+RUN useradd -m agent
+USER agent
+CMD ["python", "-m", "convintel.realtime.agent", "start"]

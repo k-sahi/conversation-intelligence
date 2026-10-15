@@ -1,0 +1,9 @@
+# Real-time agent (LiveKit worker). Kept separate: no torch/pyannote in the agent image.
+pydantic>=2.7
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+livekit-agents[deepgram,elevenlabs,anthropic,silero]~=1.8
+websockets>=12
+arize-otel>=0.8
+opentelemetry-sdk>=1.25

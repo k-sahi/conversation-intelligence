@@ -1,0 +1,540 @@
+{
+ "metadata": {
+  "model_info": {
+   "name": "nova-3"
+  }
+ },
+ "results": {
+  "channels": [
+   {
+    "alternatives": [
+     {
+      "transcript": "okay so let's decide on the remote control case material I think we should use a rubber um case it feels yeah rubber sounds good to me alright we go with rubber and the kinetics battery I will send the cost estimate by Friday. what about the LCD screen we will discuss the screen at the next meeting fine I will prepare some screen options",
+      "words": [
+       {
+        "word": "okay",
+        "punctuated_word": "okay",
+        "start": 0.0,
+        "end": 0.28,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "so",
+        "punctuated_word": "so",
+        "start": 0.33,
+        "end": 0.61,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "let's",
+        "punctuated_word": "let's",
+        "start": 0.66,
+        "end": 0.94,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "decide",
+        "punctuated_word": "decide",
+        "start": 0.99,
+        "end": 1.27,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "on",
+        "punctuated_word": "on",
+        "start": 1.32,
+        "end": 1.6,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 1.65,
+        "end": 1.93,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "remote",
+        "punctuated_word": "remote",
+        "start": 1.98,
+        "end": 2.26,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "control",
+        "punctuated_word": "control",
+        "start": 2.31,
+        "end": 2.59,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "case",
+        "punctuated_word": "case",
+        "start": 2.64,
+        "end": 2.92,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "material",
+        "punctuated_word": "material",
+        "start": 2.97,
+        "end": 3.25,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "i",
+        "punctuated_word": "I",
+        "start": 3.6,
+        "end": 3.88,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "think",
+        "punctuated_word": "think",
+        "start": 3.93,
+        "end": 4.21,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "we",
+        "punctuated_word": "we",
+        "start": 4.26,
+        "end": 4.54,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "should",
+        "punctuated_word": "should",
+        "start": 4.59,
+        "end": 4.87,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "use",
+        "punctuated_word": "use",
+        "start": 4.92,
+        "end": 5.2,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "a",
+        "punctuated_word": "a",
+        "start": 5.25,
+        "end": 5.53,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "rubber",
+        "punctuated_word": "rubber",
+        "start": 5.58,
+        "end": 5.86,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "um",
+        "punctuated_word": "um",
+        "start": 5.87,
+        "end": 5.88,
+        "confidence": 0.5,
+        "speaker": 1
+       },
+       {
+        "word": "case",
+        "punctuated_word": "case",
+        "start": 5.91,
+        "end": 6.19,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "it",
+        "punctuated_word": "it",
+        "start": 6.24,
+        "end": 6.52,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "feels",
+        "punctuated_word": "feels",
+        "start": 6.57,
+        "end": 6.85,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "yeah",
+        "punctuated_word": "yeah",
+        "start": 6.2,
+        "end": 6.48,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "rubber",
+        "punctuated_word": "rubber",
+        "start": 6.53,
+        "end": 6.81,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "sounds",
+        "punctuated_word": "sounds",
+        "start": 6.86,
+        "end": 7.14,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "good",
+        "punctuated_word": "good",
+        "start": 7.19,
+        "end": 7.47,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "to",
+        "punctuated_word": "to",
+        "start": 7.52,
+        "end": 7.8,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "me",
+        "punctuated_word": "me",
+        "start": 7.85,
+        "end": 8.13,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "alright",
+        "punctuated_word": "alright",
+        "start": 9.0,
+        "end": 9.28,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "we",
+        "punctuated_word": "we",
+        "start": 9.33,
+        "end": 9.61,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "go",
+        "punctuated_word": "go",
+        "start": 9.66,
+        "end": 9.94,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "with",
+        "punctuated_word": "with",
+        "start": 9.99,
+        "end": 10.27,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "rubber",
+        "punctuated_word": "rubber",
+        "start": 10.32,
+        "end": 10.6,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "and",
+        "punctuated_word": "and",
+        "start": 10.65,
+        "end": 10.93,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 10.98,
+        "end": 11.26,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "kinetic",
+        "punctuated_word": "kinetics",
+        "start": 11.31,
+        "end": 11.59,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "battery",
+        "punctuated_word": "battery",
+        "start": 11.64,
+        "end": 11.92,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "i",
+        "punctuated_word": "I",
+        "start": 12.4,
+        "end": 12.68,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "will",
+        "punctuated_word": "will",
+        "start": 12.73,
+        "end": 13.01,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "send",
+        "punctuated_word": "send",
+        "start": 13.06,
+        "end": 13.34,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 13.39,
+        "end": 13.67,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "cost",
+        "punctuated_word": "cost",
+        "start": 13.72,
+        "end": 14.0,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "estimate",
+        "punctuated_word": "estimate",
+        "start": 14.05,
+        "end": 14.33,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "by",
+        "punctuated_word": "by",
+        "start": 14.38,
+        "end": 14.66,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "friday",
+        "punctuated_word": "Friday.",
+        "start": 14.71,
+        "end": 14.99,
+        "confidence": 0.93,
+        "speaker": 1
+       },
+       {
+        "word": "what",
+        "punctuated_word": "what",
+        "start": 15.2,
+        "end": 15.48,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "about",
+        "punctuated_word": "about",
+        "start": 15.53,
+        "end": 15.81,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 15.86,
+        "end": 16.14,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "lcd",
+        "punctuated_word": "LCD",
+        "start": 16.19,
+        "end": 16.47,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "screen",
+        "punctuated_word": "screen",
+        "start": 16.52,
+        "end": 16.8,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "we",
+        "punctuated_word": "we",
+        "start": 17.4,
+        "end": 17.68,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "will",
+        "punctuated_word": "will",
+        "start": 17.73,
+        "end": 18.01,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "discuss",
+        "punctuated_word": "discuss",
+        "start": 18.06,
+        "end": 18.34,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 18.39,
+        "end": 18.67,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "screen",
+        "punctuated_word": "screen",
+        "start": 18.72,
+        "end": 19.0,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "at",
+        "punctuated_word": "at",
+        "start": 19.05,
+        "end": 19.33,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "the",
+        "punctuated_word": "the",
+        "start": 19.38,
+        "end": 19.66,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "next",
+        "punctuated_word": "next",
+        "start": 19.71,
+        "end": 19.99,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "meeting",
+        "punctuated_word": "meeting",
+        "start": 20.04,
+        "end": 20.32,
+        "confidence": 0.93,
+        "speaker": 0
+       },
+       {
+        "word": "fine",
+        "punctuated_word": "fine",
+        "start": 20.6,
+        "end": 20.88,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "i",
+        "punctuated_word": "I",
+        "start": 20.93,
+        "end": 21.21,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "will",
+        "punctuated_word": "will",
+        "start": 21.26,
+        "end": 21.54,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "prepare",
+        "punctuated_word": "prepare",
+        "start": 21.59,
+        "end": 21.87,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "some",
+        "punctuated_word": "some",
+        "start": 21.92,
+        "end": 22.2,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "screen",
+        "punctuated_word": "screen",
+        "start": 22.25,
+        "end": 22.53,
+        "confidence": 0.93,
+        "speaker": 2
+       },
+       {
+        "word": "options",
+        "punctuated_word": "options",
+        "start": 22.58,
+        "end": 22.86,
+        "confidence": 0.93,
+        "speaker": 2
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,10 @@
+# Used by `lk agent create` / `lk agent deploy` to build and run the agent on LiveKit Cloud.
+# `lk agent create` fills in project/agent ids on first run.
+[project]
+subdomain = "your-project"
+
+[agent]
+id = ""
+
+[build]
+dockerfile = "Dockerfile.agent"

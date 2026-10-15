@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "convintel"
+version = "0.1.0"
+description = "Conversation intelligence: transcription, diarization, structured meeting records, and evals on AMI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "pydantic>=2.7",
+  "requests>=2.31",
+  "numpy>=1.26",
+  "scipy>=1.11",
+]
+
+[project.optional-dependencies]
+diarization = ["pyannote.audio>=4.0", "torch>=2.3", "torchaudio>=2.3"]
+api = ["fastapi>=0.115", "uvicorn[standard]>=0.30", "python-multipart>=0.0.9", "livekit-api>=1.0"]
+realtime = ["livekit-agents[deepgram,elevenlabs,anthropic,silero]~=1.8", "websockets>=12"]
+observability = ["arize-otel>=0.8", "opentelemetry-sdk>=1.25"]
+eval = ["rapidfuzz>=3.6", "pyannote.metrics>=3.2"]
+dev = ["pytest>=8", "ruff>=0.5", "httpx>=0.27"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nite:root nite:id="FX001a.abssumm" xmlns:nite="http://nite.sourceforge.net/">
+ <abstract nite:id="a"><sentence nite:id="s1">The team chose the case material for the remote control.</sentence><sentence nite:id="s2">The LCD screen was deferred to the next meeting.</sentence></abstract>
+ <decisions nite:id="d"><sentence nite:id="s3">The case will be made of rubber.</sentence><sentence nite:id="s4">The remote will use a kinetic battery.</sentence></decisions>
+ <actions nite:id="ac"><sentence nite:id="s5">The industrial designer will send a cost estimate by Friday.</sentence><sentence nite:id="s6">The user interface designer will prepare screen options.</sentence></actions>
+ <problems nite:id="p"><sentence nite:id="s7">Whether to include an LCD screen is unresolved.</sentence></problems>
+</nite:root>

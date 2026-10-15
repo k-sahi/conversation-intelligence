@@ -1,0 +1,18 @@
+services:
+  api:
+    build: { context: ., dockerfile: Dockerfile.api }
+    env_file: .env
+    ports: ["8000:8000"]
+    volumes:
+      - data:/data            # uploads, cached ASR/diarization, records
+      - models:/models        # Hugging Face cache (pyannote weights)
+    restart: unless-stopped
+
+  agent:
+    build: { context: ., dockerfile: Dockerfile.agent }
+    env_file: .env
+    restart: unless-stopped
+
+volumes:
+  data:
+  models:

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nite:root nite:id="FX001a.words" xmlns:nite="http://nite.sourceforge.net/">
+  <w nite:id="FX001a.C.w21" starttime="6.2" endtime="6.48">yeah</w>
+  <w nite:id="FX001a.C.w22" starttime="6.53" endtime="6.81">rubber</w>
+  <w nite:id="FX001a.C.w23" starttime="6.86" endtime="7.14">sounds</w>
+  <w nite:id="FX001a.C.w24" starttime="7.19" endtime="7.47">good</w>
+  <w nite:id="FX001a.C.w25" starttime="7.52" endtime="7.8">to</w>
+  <w nite:id="FX001a.C.w26" starttime="7.85" endtime="8.13">me</w>
+  <w nite:id="FX001a.C.w44" starttime="15.2" endtime="15.48">what</w>
+  <w nite:id="FX001a.C.w45" starttime="15.53" endtime="15.81">about</w>
+  <w nite:id="FX001a.C.w46" starttime="15.86" endtime="16.14">the</w>
+  <w nite:id="FX001a.C.w47" starttime="16.19" endtime="16.47">LCD</w>
+  <w nite:id="FX001a.C.w48" starttime="16.52" endtime="16.8">screen</w>
+  <w nite:id="FX001a.C.w58" starttime="20.6" endtime="20.88">fine</w>
+  <w nite:id="FX001a.C.w59" starttime="20.93" endtime="21.21">I</w>
+  <w nite:id="FX001a.C.w60" starttime="21.26" endtime="21.54">will</w>
+  <w nite:id="FX001a.C.w61" starttime="21.59" endtime="21.87">prepare</w>
+  <w nite:id="FX001a.C.w62" starttime="21.92" endtime="22.2">some</w>
+  <w nite:id="FX001a.C.w63" starttime="22.25" endtime="22.53">screen</w>
+  <w nite:id="FX001a.C.w64" starttime="22.58" endtime="22.86">options</w>
+  <w nite:id="FX001a.C.wp" starttime="30.0" endtime="30.0" punc="true">.</w>
+  <vocalsound nite:id="FX001a.C.v0" starttime="31.0" endtime="31.5" type="laugh"/>
+</nite:root>

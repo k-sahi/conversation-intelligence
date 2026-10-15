@@ -1,0 +1,16 @@
+# Batch pipeline + API + evals (CPU). For GPU diarization install torch for your CUDA first.
+pydantic>=2.7
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+pyannote.audio>=4.0
+torch>=2.3
+torchaudio>=2.3
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+livekit-api>=1.0
+rapidfuzz>=3.6
+pyannote.metrics>=3.2
+arize-otel>=0.8
+opentelemetry-sdk>=1.25

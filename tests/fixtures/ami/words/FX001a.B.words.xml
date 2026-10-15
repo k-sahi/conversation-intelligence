@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nite:root nite:id="FX001a.words" xmlns:nite="http://nite.sourceforge.net/">
+  <w nite:id="FX001a.B.w10" starttime="3.6" endtime="3.88">I</w>
+  <w nite:id="FX001a.B.w11" starttime="3.93" endtime="4.21">think</w>
+  <w nite:id="FX001a.B.w12" starttime="4.26" endtime="4.54">we</w>
+  <w nite:id="FX001a.B.w13" starttime="4.59" endtime="4.87">should</w>
+  <w nite:id="FX001a.B.w14" starttime="4.92" endtime="5.2">use</w>
+  <w nite:id="FX001a.B.w15" starttime="5.25" endtime="5.53">a</w>
+  <w nite:id="FX001a.B.w16" starttime="5.58" endtime="5.86">rubber</w>
+  <w nite:id="FX001a.B.w17" starttime="5.91" endtime="6.19">case</w>
+  <w nite:id="FX001a.B.w18" starttime="6.24" endtime="6.52">it</w>
+  <w nite:id="FX001a.B.w19" starttime="6.57" endtime="6.85">feels</w>
+  <w nite:id="FX001a.B.w20" starttime="6.9" endtime="7.18">nice</w>
+  <w nite:id="FX001a.B.w36" starttime="12.4" endtime="12.68">I</w>
+  <w nite:id="FX001a.B.w37" starttime="12.73" endtime="13.01">will</w>
+  <w nite:id="FX001a.B.w38" starttime="13.06" endtime="13.34">send</w>
+  <w nite:id="FX001a.B.w39" starttime="13.39" endtime="13.67">the</w>
+  <w nite:id="FX001a.B.w40" starttime="13.72" endtime="14.0">cost</w>
+  <w nite:id="FX001a.B.w41" starttime="14.05" endtime="14.33">estimate</w>
+  <w nite:id="FX001a.B.w42" starttime="14.38" endtime="14.66">by</w>
+  <w nite:id="FX001a.B.w43" starttime="14.71" endtime="14.99">Friday</w>
+  <w nite:id="FX001a.B.wp" starttime="30.0" endtime="30.0" punc="true">.</w>
+  <vocalsound nite:id="FX001a.B.v0" starttime="31.0" endtime="31.5" type="laugh"/>
+</nite:root>
